@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "learning_user",
+    "password": "learning_pass",
+    "database": "learning_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "learning_user",
+    "password": "learning_pass",
+    "database": "learning_db_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "user",
+    "password": "pass",
+    "database": "db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
